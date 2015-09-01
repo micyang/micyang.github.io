@@ -25,7 +25,7 @@ var frontEndUdacityProjectsData = [{
 	name: 'Project 5: Neighborhood Map',
 	url: 'https://github.com/micyang/neighborhood-map',
 	description: 'Build one page application of google maps',
-	learningExperience: 'One of the main things I learned was good software design by seperating model and view with viewmodel. By seperating concerns, editing data will not interfere with how the view is displayed and vice versa. I learned how to explore frameworks such as Google Maps and Yelp. The major challenge is figuring out to build this application from scratch. Udacity did not provide any sort of code base for this.'
+	learningExperience: 'One of the main things I learned was good software design by separating model and view with viewmodel. By separating concerns, editing data will not interfere with how the view is displayed and vice versa. I learned how to explore frameworks such as Google Maps and Yelp. The major challenge is figuring out to build this application from scratch. Udacity did not provide any sort of code base for this.'
 }, {
 	name: 'Project 6: Feed Reader',
 	url: 'https://github.com/micyang/frontend-nanodegree-feedreader',
